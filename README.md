@@ -1,6 +1,10 @@
 Hey I'm ShiroC0de. <br>
 I'm a hobbyist Programmer and I love to write some code to get better and improve my skills .
 
+my best friend:
+
+- [Github](https://github.com/Cracked5pider)
+
 #### Social:
 - [Twitter](https://twitter.com/ShiroC0de)
 
