@@ -1,4 +1,5 @@
-Hey I'm ShiroC0de. <br>
+Welcome to my corner of the internet
+ I'm ShiroC0de. <br>
 I'm a hobbyist Programmer and I love to write some code to get better and improve my skills .
 
 my best friend:
