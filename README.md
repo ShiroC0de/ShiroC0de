@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey I'm ShiroC0de. <br>
+I'm a hobbyist Programmer and I love to write some code to get better and improve my skills .
 
-<!--
-**ShiroC0de/ShiroC0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Social:
+- [Twitter](https://twitter.com/ShiroC0de)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShiroC0de&show_icons=true&theme=tokyonight" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroC0de&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
